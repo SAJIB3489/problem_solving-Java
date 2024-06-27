@@ -26,29 +26,56 @@ To get started with this repository, follow the instructions below based on your
 
 First, clone the repository to your local machine:
 
-```bash
+```
 git clone https://github.com/SAJIB3489/problem_solving-Java.git
 cd problem_solving-Java
+```
+
 
 ## Debugging with IntelliJ IDEA
 
-Windows Users
+#### Windows Users
 
-    Open IntelliJ IDEA:
+1. **Open IntelliJ IDEA:**
         Launch IntelliJ IDEA from your Start Menu or Desktop shortcut.
 
-    Import the Project:
+    
+2. **Import the Project:**
         Go to File -> Open... and navigate to the directory where you cloned the repository.
         Select the project folder and click OK.
 
-    Configure JDK:
+3. **Configure JDK:**
         IntelliJ might prompt you to configure the JDK if it's not already set. Point to the JDK installation path (e.g., C:\Program Files\Java\jdk-17).
 
-    Build the Project:
+4. **Build the Project:**
         Go to Build -> Build Project to compile the code.
 
-    Run/Debug a Program:
+5. **Run/Debug a Program:**
         Open the Java file you want to debug.
         Set breakpoints by clicking on the left margin of the code editor.
         Right-click inside the editor and select Debug <ClassName>.
         IntelliJ will start the debugger, and execution will pause at the breakpoints you set. You can then step through the code, inspect variables, and evaluate expressions.
+
+
+## Linux Users
+
+1. **Open IntelliJ IDEA:**
+        Launch IntelliJ IDEA from your Applications menu or via terminal by typing intellij-idea-ultimate (or intellij-idea-community if you have the community edition).
+
+2. **Import the Project:**
+        Go to File -> Open... and navigate to the directory where you cloned the repository.
+        Select the project folder and click OK.
+
+3. **Configure JDK:**
+        IntelliJ might prompt you to configure the JDK if it's not already set. Point to the JDK installation path (e.g., /usr/lib/jvm/java-17-openjdk).
+
+4. **Build the Project:**
+        Go to Build -> Build Project to compile the code.
+
+5. **Run/Debug a Program:**
+        Open the Java file you want to debug.
+        Set breakpoints by clicking on the left margin of the code editor.
+        Right-click inside the editor and select Debug <ClassName>.
+        IntelliJ will start the debugger, and execution will pause at the breakpoints you set. You can then step through the code, inspect variables, and evaluate expressions.
+
+
