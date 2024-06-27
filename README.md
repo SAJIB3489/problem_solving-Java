@@ -1,2 +1,54 @@
-# problem_solving-Java
-My problem solving skill in Java language
+# Java Programming Exercises
+
+Welcome to my Java Programming Exercises repository. This repository contains solutions and exercises that demonstrate my practice at my university and problem-solving skills in Java. The exercises cover various fundamental and advanced topics in Java programming.
+
+## Topics Covered
+
+1. Introduction Task (Basics)
+2. Efficiency Analysis
+3. Sorting
+4. Lists
+5. Hash Table
+6. Binary Search Tree
+7. Heap
+8. Backtracking
+
+## Getting Started
+
+To get started with this repository, follow the instructions below based on your operating system.
+
+### Prerequisites
+
+- Ensure you have Java Development Kit (JDK) installed. You can download it from [Oracle's official site](https://www.oracle.com/java/technologies/javase-downloads.html).
+- Install [IntelliJ IDEA](https://www.jetbrains.com/idea/download/), a popular Java IDE.
+
+### Cloning the Repository
+
+First, clone the repository to your local machine:
+
+```bash
+git clone https://github.com/SAJIB3489/problem_solving-Java.git
+cd problem_solving-Java
+
+## Debugging with IntelliJ IDEA
+
+Windows Users
+
+    Open IntelliJ IDEA:
+        Launch IntelliJ IDEA from your Start Menu or Desktop shortcut.
+
+    Import the Project:
+        Go to File -> Open... and navigate to the directory where you cloned the repository.
+        Select the project folder and click OK.
+
+    Configure JDK:
+        IntelliJ might prompt you to configure the JDK if it's not already set. Point to the JDK installation path (e.g., C:\Program Files\Java\jdk-17).
+
+    Build the Project:
+        Go to Build -> Build Project to compile the code.
+
+    Run/Debug a Program:
+        Open the Java file you want to debug.
+        Set breakpoints by clicking on the left margin of the code editor.
+        Right-click inside the editor and select Debug <ClassName>.
+        IntelliJ will start the debugger, and execution will pause at the breakpoints you set. You can then step through the code, inspect variables, and evaluate expressions.
