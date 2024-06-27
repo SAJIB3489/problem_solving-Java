@@ -1,5 +1,7 @@
 # Java Programming Exercises
 
+![Demo](https://static.vecteezy.com/system/resources/thumbnails/022/101/050/small/java-logo-transparent-free-png.png)
+
 Welcome to my Java Programming Exercises repository. This repository contains solutions and exercises that demonstrate my practice at my university and problem-solving skills in Java. The exercises cover various fundamental and advanced topics in Java programming.
 
 ## Topics Covered
